@@ -1,0 +1,12 @@
+.clickme, .clickme-choice {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:32px;
+}
+.clickme {
+    background-color: black;
+    color: white;
+}
+
+.clickme-choice {
+    background-color: yellow;
+}

@@ -24,3 +24,19 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.title {
+  text-align: center;
+}
+
+.generic-list {
+  display: flex;
+  margin: 32px 0;
+  justify-content: center;
+  gap: 52px;
+}
+
+.generic-list > div {
+  text-align: center;
+  max-width: 200px;
+}
